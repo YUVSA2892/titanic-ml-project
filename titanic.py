@@ -1,3 +1,11 @@
+# Step 1: Import libraries
+# Step 2: Load dataset
+# Step 3: Handle missing values
+# Step 4: Data analysis
+# Step 5: Feature engineering
+# Step 6: Model training
+# Step 7: Evaluation
+
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
